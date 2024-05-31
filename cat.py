@@ -1,9 +1,9 @@
 text = input("What do you want the cat to say?: ")
 text_length = len(text)
 
-print("          {}".format("_" * text_length))
-print("        < {} >".format(text))
-print("          {}".format("-" * text_length))
+print("              {}".format("_" * text_length))
+print("            < {} >".format(text))
+print("              {}".format("-" * text_length))
 print("           /" )
 print("  /\_/\   /")
 print(" ( 0.0 ) ")
